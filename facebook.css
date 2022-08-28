@@ -1,0 +1,46 @@
+body {
+  background-color: #ebfaeb;
+  background-image: url(./fbook1.png);
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position: left 400px bottom -30px;
+}
+
+#header {
+  font-size: 45px;
+}
+
+.login {
+  width: 350px;
+  padding: 20px;
+  margin-top: 80px;
+  margin-left: 350px;
+  background-color: #fff;
+}
+input {
+  padding: 10px;
+  width: 300px;
+  font-size: 18px;
+}
+
+#submit {
+  margin-top: 20px;
+  width: 320px;
+  padding: 10px;
+  font-size: 25px;
+  background: blueviolet;
+  color: white;
+  border: 0px;
+  border-radius: 10px;
+}
+
+#new {
+  margin-top: 40px;
+  background-color: green;
+  width: 200px;
+  font-size: 18px;
+  color: white;
+  padding: 10px;
+  border: 0px;
+  border-radius: 10px;
+}
